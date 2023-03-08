@@ -1,0 +1,3 @@
+git config --global user.name "정기용"
+git config --global user email "lala216@naver.com
+git config --list
